@@ -3,4 +3,4 @@ eshop
 
 The repository for eshop
 
-Welcome guys!
+Welcome guys! Commit 2
